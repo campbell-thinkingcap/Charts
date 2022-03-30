@@ -1,0 +1,319 @@
+<CourseCompletionReport rundate="3/23/2022 10:13:58 PM">
+  <CourseType>select</CourseType>
+  <Filters>
+    <Filter>
+      <Name>Include Learners</Name>
+      <Value>All</Value>
+    </Filter>
+    <Filter>
+      <Name>Include Activity</Name>
+      <Value>All</Value>
+    </Filter>
+    <Filter>
+      <Name>Learners Record Status</Name>
+      <Value>all</Value>
+    </Filter>
+  </Filters>
+  <Domain id="31f41d06-3e5c-452a-ab83-3c94a67456a2" name="cal">
+    <DomainFilters></DomainFilters>
+    <Course id='a9a77dd8-ef5c-4920-9dc8-0f4606dc8df6'>
+      <CourseName>Estimated learning time course 1</CourseName>
+      <CourseDescription>&lt;p&gt;Estimated learning time course&lt;/p&gt;</CourseDescription>
+      <CourseCode>Estimated learning time course 1</CourseCode>
+      <TotalLearners>0</TotalLearners>
+      <InProgressLearners>0</InProgressLearners>
+      <NotStartedLearners>0</NotStartedLearners>
+      <CompletedLearners>0</CompletedLearners>
+      <PassedLearners>0</PassedLearners>
+      <FailedLearners>0</FailedLearners>
+      <WithdrawnLearners>0</WithdrawnLearners>
+      <OverDueCountLess30>0</OverDueCountLess30>
+      <OverDueCountLess60>0</OverDueCountLess60>
+      <OverDueCountLess90>0</OverDueCountLess90>
+      <OverDueCountPlus90>0</OverDueCountPlus90>
+      <OverDueCount>0</OverDueCount>
+      <metadata>
+        <field name="Multi Line Text">
+          <value>Lorem Ipsum delore si amet</value>
+        </field>
+        <field name="NA Phone Number Aug 2016">
+          <value>416 220 2509</value>
+        </field>
+        <field name="User Type">
+          <value>Admin</value>
+          <value>Learner</value>
+        </field>
+      </metadata>
+      <Learners></Learners>
+    </Course>
+    <Course id='bd09bf26-897d-4e25-9bc5-4e7b73d5817b'>
+      <CourseName>Estimated learning time course 2</CourseName>
+      <CourseDescription>&lt;p&gt;Estimated learning time course 2&lt;/p&gt;</CourseDescription>
+      <CourseCode>Estimated learning time course 2</CourseCode>
+      <TotalLearners>1</TotalLearners>
+      <InProgressLearners>0</InProgressLearners>
+      <NotStartedLearners>1</NotStartedLearners>
+      <CompletedLearners>0</CompletedLearners>
+      <PassedLearners>0</PassedLearners>
+      <FailedLearners>0</FailedLearners>
+      <WithdrawnLearners>0</WithdrawnLearners>
+      <OverDueCountLess30>0</OverDueCountLess30>
+      <OverDueCountLess60>0</OverDueCountLess60>
+      <OverDueCountLess90>0</OverDueCountLess90>
+      <OverDueCountPlus90>0</OverDueCountPlus90>
+      <OverDueCount>0</OverDueCount>
+      <metadata>
+        <field name="Multi Line Text">
+          <value>Lorem Ipsum delore si amet</value>
+        </field>
+        <field name="NA Phone Number Aug 2016">
+          <value>416 220 2509</value>
+        </field>
+        <field name="User Type">
+          <value>Admin</value>
+          <value>Learner</value>
+        </field>
+      </metadata>
+      <Learners>
+        <StudentRecord>
+          <StudentID>cc3fbea6-d5db-4b3a-92c3-08ddff5bd724</StudentID>
+          <HomeDomainID>9ffb600f-789e-4ad1-8b9d-7a785041271f</HomeDomainID>
+          <HomeDomainName>Cal</HomeDomainName>
+          <CourseID>bd09bf26-897d-4e25-9bc5-4e7b73d5817b</CourseID>
+          <CourseType>Course</CourseType>
+          <CourseIsOnline>True</CourseIsOnline>
+          <CourseIsAssessment>False</CourseIsAssessment>
+          <FirstName>Zach</FirstName>
+          <LastName>Collins</LastName>
+          <Email>*******</Email>
+          <CourseVersion>1</CourseVersion>
+          <CertificateAttempt>1</CertificateAttempt>
+          <RecordAttempt>0</RecordAttempt>
+          <Status>Not Started</Status>
+          <Success>unknown</Success>
+          <Score>N/A</Score>
+          <DateEnrolled>2022-02-18 09:25 PM (UTC)</DateEnrolled>
+          <DateStarted></DateStarted>
+          <DateCompleted></DateCompleted>
+          <DueDate>12/31/9999</DueDate>
+          <OverDueSection>NotOverDue</OverDueSection>
+          <LastDateAttempted></LastDateAttempted>
+          <LastModule></LastModule>
+          <LastModuleName></LastModuleName>
+          <Duration>0D:0h:0min:0sec</Duration>
+          <PercentCompleted>0</PercentCompleted>
+          <ItemsCompleted></ItemsCompleted>
+          <StudentRecordID>5864c85a-2d8c-4b58-aec3-b23886f35d86</StudentRecordID>
+          <homeDomainID>9ffb600f-789e-4ad1-8b9d-7a785041271f</homeDomainID>
+          <homeDomainName>Cal</homeDomainName>
+          <metadata>
+            <field name="Multi Line Text">
+              <value>Lorem Ipsum delore si amet</value>
+            </field>
+            <field name="NA Phone Number Aug 2016">
+              <value>416 333 2509</value>
+            </field>
+            <field name="User Type">
+              <value>Admin</value>
+              <value>Learner</value>
+            </field>
+          </metadata>
+        </StudentRecord>
+      </Learners>
+    </Course>
+    <Course id='169fd3a2-c7e9-4852-ab54-143717a93330'>
+      <CourseName>Coming Soon PDF Test</CourseName>
+      <CourseDescription>&lt;p&gt;Coming Soon PDF Test&lt;/p&gt;</CourseDescription>
+      <CourseCode>Coming Soon PDF Test</CourseCode>
+      <TotalLearners>1</TotalLearners>
+      <InProgressLearners>0</InProgressLearners>
+      <NotStartedLearners>0</NotStartedLearners>
+      <CompletedLearners>1</CompletedLearners>
+      <PassedLearners>1</PassedLearners>
+      <FailedLearners>0</FailedLearners>
+      <WithdrawnLearners>0</WithdrawnLearners>
+      <OverDueCountLess30>0</OverDueCountLess30>
+      <OverDueCountLess60>0</OverDueCountLess60>
+      <OverDueCountLess90>0</OverDueCountLess90>
+      <OverDueCountPlus90>0</OverDueCountPlus90>
+      <OverDueCount>0</OverDueCount>
+      <metadata>
+        <field name="Multi Line Text">
+          <value>Lorem Ipsum delore si amet</value>
+        </field>
+        <field name="NA Phone Number Aug 2016">
+          <value>416 220 2509</value>
+        </field>
+        <field name="User Type">
+          <value>Admin</value>
+          <value>Learner</value>
+        </field>
+      </metadata>
+      <Learners>
+        <StudentRecord>
+          <StudentID>cc3fbea6-d5db-4b3a-92c3-08ddff5bd724</StudentID>
+          <HomeDomainID>9ffb600f-789e-4ad1-8b9d-7a785041271f</HomeDomainID>
+          <HomeDomainName>Cal</HomeDomainName>
+          <CourseID>169fd3a2-c7e9-4852-ab54-143717a93330</CourseID>
+          <CourseType>Course</CourseType>
+          <CourseIsOnline>True</CourseIsOnline>
+          <CourseIsAssessment>False</CourseIsAssessment>
+          <FirstName>Zach</FirstName>
+          <LastName>Collins</LastName>
+          <Email>*******</Email>
+          <CourseVersion>1</CourseVersion>
+          <CertificateAttempt>1</CertificateAttempt>
+          <RecordAttempt>1</RecordAttempt>
+          <Status>Completed</Status>
+          <Success>passed</Success>
+          <Score>N/A</Score>
+          <DateEnrolled>2022-01-05 05:37 PM (UTC)</DateEnrolled>
+          <DateStarted>2022-01-05 05:43 PM (UTC)</DateStarted>
+          <DateCompleted>2022-01-05 05:43 PM (UTC)</DateCompleted>
+          <DueDate>12/31/9999</DueDate>
+          <OverDueSection>NotOverDue</OverDueSection>
+          <LastDateAttempted>2022-01-05 05:44 PM (UTC)</LastDateAttempted>
+          <LastModule>PDF</LastModule>
+          <LastModuleName>PDF</LastModuleName>
+          <Duration>0D:0h:0min:47sec</Duration>
+          <PercentCompleted>100</PercentCompleted>
+          <ItemsCompleted></ItemsCompleted>
+          <StudentRecordID>8f380dbc-c412-4d86-b9f3-11407979327e</StudentRecordID>
+          <homeDomainID>9ffb600f-789e-4ad1-8b9d-7a785041271f</homeDomainID>
+          <homeDomainName>Cal</homeDomainName>
+          <metadata>
+            <field name="Multi Line Text">
+              <value>Lorem Ipsum delore si amet</value>
+            </field>
+            <field name="NA Phone Number Aug 2016">
+              <value>416 220 2509</value>
+            </field>
+            <field name="User Type">
+              <value>Admin</value>
+              <value>Learner</value>
+            </field>
+          </metadata>
+        </StudentRecord>
+      </Learners>
+    </Course>
+    <Course id='8f7b09fb-230f-4e1e-9de4-5ff6bea434f5'>
+      <CourseName>Automated Feedback popup test</CourseName>
+      <CourseDescription>&lt;p&gt;Automated Feedback popup test&lt;/p&gt;</CourseDescription>
+      <CourseCode>Automated Feedback popup test</CourseCode>
+      <TotalLearners>2</TotalLearners>
+      <InProgressLearners>0</InProgressLearners>
+      <NotStartedLearners>0</NotStartedLearners>
+      <CompletedLearners>2</CompletedLearners>
+      <PassedLearners>2</PassedLearners>
+      <FailedLearners>0</FailedLearners>
+      <WithdrawnLearners>0</WithdrawnLearners>
+      <OverDueCountLess30>0</OverDueCountLess30>
+      <OverDueCountLess60>0</OverDueCountLess60>
+      <OverDueCountLess90>0</OverDueCountLess90>
+      <OverDueCountPlus90>0</OverDueCountPlus90>
+      <OverDueCount>0</OverDueCount>
+      <metadata>
+        <field name="Multi Line Text">
+          <value>Lorem Ipsum delore si amet</value>
+        </field>
+        <field name="NA Phone Number Aug 2016">
+          <value>416 220 2509</value>
+        </field>
+        <field name="User Type">
+          <value>Admin</value>
+          <value>Learner</value>
+        </field>
+      </metadata>
+      <Learners>
+        <StudentRecord>
+          <StudentID>cc3fbea6-d5db-4b3a-92c3-08ddff5bd724</StudentID>
+          <HomeDomainID>9ffb600f-789e-4ad1-8b9d-7a785041271f</HomeDomainID>
+          <HomeDomainName>Cal</HomeDomainName>
+          <CourseID>8f7b09fb-230f-4e1e-9de4-5ff6bea434f5</CourseID>
+          <CourseType>Course</CourseType>
+          <CourseIsOnline>True</CourseIsOnline>
+          <CourseIsAssessment>False</CourseIsAssessment>
+          <FirstName>Zach</FirstName>
+          <LastName>Collins</LastName>
+          <Email>*******</Email>
+          <CourseVersion>1</CourseVersion>
+          <CertificateAttempt>1</CertificateAttempt>
+          <RecordAttempt>1</RecordAttempt>
+          <Status>Completed</Status>
+          <Success>passed</Success>
+          <Score>N/A</Score>
+          <DateEnrolled>2021-08-11 09:50 PM (UTC)</DateEnrolled>
+          <DateStarted>2021-08-11 09:52 PM (UTC)</DateStarted>
+          <DateCompleted>2021-08-11 09:52 PM (UTC)</DateCompleted>
+          <DueDate>12/31/9999</DueDate>
+          <OverDueSection>NotOverDue</OverDueSection>
+          <LastDateAttempted>2021-08-11 09:52 PM (UTC)</LastDateAttempted>
+          <LastModule>PDF</LastModule>
+          <LastModuleName>PDF</LastModuleName>
+          <Duration>0D:0h:0min:0sec</Duration>
+          <PercentCompleted>100</PercentCompleted>
+          <ItemsCompleted></ItemsCompleted>
+          <StudentRecordID>8aed7ebf-4b86-4451-aa4c-c2ef43ce7f14</StudentRecordID>
+          <homeDomainID>9ffb600f-789e-4ad1-8b9d-7a785041271f</homeDomainID>
+          <homeDomainName>Cal</homeDomainName>
+          <metadata>
+            <field name="Multi Line Text">
+              <value>Lorem Ipsum delore si amet</value>
+            </field>
+            <field name="NA Phone Number Aug 2016">
+              <value>416 220 2509</value>
+            </field>
+            <field name="User Type">
+              <value>Admin</value>
+              <value>Learner</value>
+            </field>
+          </metadata>
+        </StudentRecord>
+        <StudentRecord>
+          <StudentID>ff535375-f20d-401e-a0f3-b527c0cc4c94</StudentID>
+          <HomeDomainID>9f967021-c6c6-4eea-a1d9-f94c78b927e3</HomeDomainID>
+          <HomeDomainName>Stable  - Root</HomeDomainName>
+          <CourseID>8f7b09fb-230f-4e1e-9de4-5ff6bea434f5</CourseID>
+          <CourseType>Course</CourseType>
+          <CourseIsOnline>True</CourseIsOnline>
+          <CourseIsAssessment>False</CourseIsAssessment>
+          <FirstName>Sejal</FirstName>
+          <LastName>Patel</LastName>
+          <Email>*******</Email>
+          <CourseVersion>1</CourseVersion>
+          <CertificateAttempt>1</CertificateAttempt>
+          <RecordAttempt>1</RecordAttempt>
+          <Status>Completed</Status>
+          <Success>passed</Success>
+          <Score>N/A</Score>
+          <DateEnrolled>2021-08-31 11:36 AM (UTC)</DateEnrolled>
+          <DateStarted>2021-08-31 11:36 AM (UTC)</DateStarted>
+          <DateCompleted>2021-08-31 11:36 AM (UTC)</DateCompleted>
+          <DueDate>12/31/9999</DueDate>
+          <OverDueSection>NotOverDue</OverDueSection>
+          <LastDateAttempted>2021-08-31 11:36 AM (UTC)</LastDateAttempted>
+          <LastModule>PDF</LastModule>
+          <LastModuleName>PDF</LastModuleName>
+          <Duration>0D:0h:0min:0sec</Duration>
+          <PercentCompleted>100</PercentCompleted>
+          <ItemsCompleted></ItemsCompleted>
+          <StudentRecordID>a4be2f24-583f-4d17-9718-d01435149c6f</StudentRecordID>
+          <homeDomainID>9f967021-c6c6-4eea-a1d9-f94c78b927e3</homeDomainID>
+          <homeDomainName>Stable  - Root</homeDomainName>
+          <metadata>
+            <field name="Multi Line Text">
+              <value>Lorem Ipsum delore si amet</value>
+            </field>
+            <field name="NA Phone Number Aug 2016">
+              <value>416 220 2509</value>
+            </field>
+            <field name="User Type">
+              <value>Admin</value>
+              <value>Learner</value>
+            </field>
+          </metadata>
+        </StudentRecord>
+      </Learners>
+    </Course>
+  </Domain>
+</CourseCompletionReport>
